@@ -1,0 +1,407 @@
+[
+  {
+    "text": "Документы",
+    "weight": 10,
+    "url": "https://ru.wikipedia.org/wiki/Документ"
+  },
+  {
+    "text": "Документооборот",
+    "weight": 10,
+    "url": "https://ru.wikipedia.org/wiki/Документооборот"
+  },
+  {
+    "text": "ЭЦП",
+    "weight": 10,
+    "url": "https://ru.wikipedia.org/wiki/Электронная_подпись"
+  },
+  {
+    "text": "152 ФЗ",
+    "weight": 10,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_61801/"
+  },
+  {
+    "text": "КонсультантПлюс",
+    "weight": 10,
+    "url": "https://www.consultant.ru/"
+  },
+  {
+    "text": "СЭД",
+    "weight": 9,
+    "url": "https://ru.wikipedia.org/wiki/Система_электронного_документооборота"
+  },
+  {
+    "text": "ГОСТ Р 7.0.97",
+    "weight": 9,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_287660/"
+  },
+  {
+    "text": "Делопроизводство",
+    "weight": 9,
+    "url": "https://ru.wikipedia.org/wiki/Делопроизводство"
+  },
+  {
+    "text": "Электронный документ",
+    "weight": 9,
+    "url": "https://ru.wikipedia.org/wiki/Электронный_документ"
+  },
+  {
+    "text": "Приказ",
+    "weight": 8,
+    "url": "https://ru.wikipedia.org/wiki/Приказ"
+  },
+  {
+    "text": "Договор",
+    "weight": 8,
+    "url": "https://ru.wikipedia.org/wiki/Договор"
+  },
+  {
+    "text": "Номенклатура дел",
+    "weight": 8,
+    "url": "https://ru.wikipedia.org/wiki/Номенклатура_дел"
+  },
+  {
+    "text": "Персональные данные",
+    "weight": 8,
+    "url": "https://ru.wikipedia.org/wiki/Персональные_данные"
+  },
+  {
+    "text": "Кадровое делопроизводство",
+    "weight": 8,
+    "url": "https://ru.wikipedia.org/wiki/Кадровое_делопроизводство"
+  },
+  {
+    "text": "Реквизиты",
+    "weight": 8,
+    "url": "https://kurs.alfabank.ru/vocabulary/rekvizity-dokumentov"
+  },
+  {
+    "text": "63-ФЗ",
+    "weight": 8,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_128841/"
+  },
+  {
+    "text": "Архивное дело",
+    "weight": 7,
+    "url": "https://ru.wikipedia.org/wiki/Архивное_дело"
+  },
+  {
+    "text": "ДОУ",
+    "weight": 7,
+    "url": "https://ru.wikipedia.org/wiki/Документационное_обеспечение_управления"
+  },
+  {
+    "text": "УСОРД",
+    "weight": 7,
+    "url": "https://ru.wikipedia.org/wiki/Унифицированная_система_организационно-распорядительной_документации"
+  },
+  {
+    "text": "1С:Документооборот",
+    "weight": 7,
+    "url": "https://ru.wikipedia.org/wiki/1С:Документооборот"
+  },
+  {
+    "text": "402-ФЗ",
+    "weight": 7,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_116904/"
+  },
+  {
+    "text": "Регистрация",
+    "weight": 7,
+    "url": "https://www.comindware.ru/blog/registraciya-dokumentov-i-korrespondencii/"
+  },
+  {
+    "text": "Срок хранения",
+    "weight": 7,
+    "url": "https://archives.gov.ru/documents/2019-instrukciya-perechen-typdocs-organization.shtml"
+  },
+  {
+    "text": "Контроль исполнения",
+    "weight": 7,
+    "url": "https://sudact.ru/law/prikaz-rostruda-ot-20052021-n-149-ob/instruktsiia-po-deloproizvodstvu-federalnoi-sluzhby/iv/4.1/"
+  },
+  {
+    "text": "Служебная записка",
+    "weight": 6,
+    "url": "https://skillbox.ru/media/management/glavnoe-o-sluzhebnoy-zapiske-rasskazyvaem-kak-ee-napisat-i-pokazyvaem-primery/"
+  },
+  {
+    "text": "Заявление",
+    "weight": 6,
+    "url": "https://secrets.tbank.ru/glossarij/zayavlenie/"
+  },
+  {
+    "text": "Доверенность",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Доверенность"
+  },
+  {
+    "text": "Протокол",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Протокол"
+  },
+  {
+    "text": "Акт",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Правовой_акт"
+  },
+  {
+    "text": "Распоряжение",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Распоряжение"
+  },
+  {
+    "text": "Экспертиза ценности",
+    "weight": 6,
+    "url": "https://uprarchives.midural.ru/upload/uf/bc8/i7dhkqfwdnymj27fr8oh2gzksibl8x4y/Poryadok-ekspertizy-tsennosti-dokumentov-v-gosudarstvennom-organe.pdf"
+  },
+  {
+    "text": "Трудовой кодекс РФ",
+    "weight": 6,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_34683/"
+  },
+  {
+    "text": "Юридическая значимость",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Юридическая_сила"
+  },
+  {
+    "text": "Коммерческая тайна",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Коммерческая_тайна"
+  },
+  {
+    "text": "Информ. безопасность",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Информационная_безопасность"
+  },
+  {
+    "text": "Гриф секретности",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Гриф_секретности"
+  },
+  {
+    "text": "Метаданные",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Метаданные"
+  },
+  {
+    "text": "Гарант",
+    "weight": 6,
+    "url": "https://www.garant.ru/"
+  },
+  {
+    "text": "Маршрут согласования",
+    "weight": 6,
+    "url": "https://endocs.ru/blog/marshruty-soglasovaniya-v-sed-kak-eto-rabotaet-v-endocs/"
+  },
+  {
+    "text": "Резолюция",
+    "weight": 6,
+    "url": "https://ru.wikipedia.org/wiki/Резолюция"
+  },
+  {
+    "text": "Виза согласования",
+    "weight": 6,
+    "url": "https://elma365.com/ru/baza-znaniy/vizirovanie-dokumentov/"
+  },
+  {
+    "text": "Гриф утверждения",
+    "weight": 6,
+    "url": "https://sudact.ru/law/metodicheskie-rekomendatsii-po-primeneniiu-gost-r-7097-2016/metodicheskie-rekomendatsii/4/4.16/"
+  },
+  {
+    "text": "Опись дел",
+    "weight": 6,
+    "url": "https://archives.gov.ru/documents/methodics/OAD-mob/texts_m/4.1.7..html"
+  },
+  {
+    "text": "Уничтожение документов",
+    "weight": 5,
+    "url": "https://v8.1c.ru/metod/article/unichtozhenie-bumazhnykh-i-elektronnykh-dokumentov-kak-organizovat-protsess-v-sistemakh-1s-arkhiv-i-.htm"
+  },
+  {
+    "text": "Дело пост. хранения",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Архивное_дело"
+  },
+  {
+    "text": "Дело врем. хранения",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Архивное_дело"
+  },
+  {
+    "text": "Акт об уничтожении",
+    "weight": 5,
+    "url": "https://buhexpert8.ru/zkn-bu/deloproizvodstvo/kak-sostavit-akt-ob-unichtozhenii-dokumentov-reglament-i-forma.html"
+  },
+  {
+    "text": "Исполнительская дисц.",
+    "weight": 5,
+    "url": "https://ldm.ru/novosti-i-meropriyatiya/ispolnitelskaya-disciplina"
+  },
+  {
+    "text": "Сканирование",
+    "weight": 5,
+    "url": "https://copygeneral.ru/skanirovanie-dokumentov-chto-eto-takoe-i-kak-delaetsya/"
+  },
+  {
+    "text": "Поиск документов",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Поиск_информации"
+  },
+  {
+    "text": "Уведомление",
+    "weight": 5,
+    "url": "https://www.profiz.ru/kr/blog/post_14628/"
+  },
+  {
+    "text": "Индексация",
+    "weight": 5,
+    "url": "https://kurs.alfabank.ru/vocabulary/indeksaciya/"
+  },
+  {
+    "text": "Классификатор",
+    "weight": 5,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_43631/fe0fcde01af39800bd620af2a8e83bd5634875f4/"
+  },
+  {
+    "text": "Версионность",
+    "weight": 5,
+    "url": "https://platforms.su/glossary/versionnost-dokumentov"
+  },
+  {
+    "text": "Трудовая книжка",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Трудовая_книжка"
+  },
+  {
+    "text": "Личное дело",
+    "weight": 5,
+    "url": "https://pravo-pro.ru/blog/posts/lichnoe-delo-sotrudnika/"
+  },
+  {
+    "text": "Штатное расписание",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Штатное_расписание"
+  },
+  {
+    "text": "Подпись",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Подпись"
+  },
+  {
+    "text": "Печать организации",
+    "weight": 5,
+    "url": "https://delo-press.ru/journals/documents/prava-i-obyazannosti/34543-pechat-organizatsii-izgotavlivaem-vvodim-v-deystvie-zashchishchaem-i-unichtozhaem/"
+  },
+  {
+    "text": "Деловой этикет",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Деловой_этикет"
+  },
+  {
+    "text": "Бланк документа",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Бланк"
+  },
+  {
+    "text": "Инструкция по делопроизводству",
+    "weight": 5,
+    "url": "https://sudact.ru/law/prikaz-rostruda-ot-20052021-n-149-ob/instruktsiia-po-deloproizvodstvu-federalnoi-sluzhby/"
+  },
+  {
+    "text": "Электронный архив",
+    "weight": 5,
+    "url": "https://ru.wikipedia.org/wiki/Электронный_архив"
+  },
+  {
+    "text": "КЭДО",
+    "weight": 5,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_34683/"
+  },
+  {
+    "text": "Росархив",
+    "weight": 5,
+    "url": "https://archives.gov.ru/"
+  },
+  {
+    "text": "149-ФЗ",
+    "weight": 5,
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_61798/"
+  },
+  {
+    "text": "Деловое письмо",
+    "weight": 4,
+    "url": "https://www.rbc.ru/industries/news/6a0edddb9a7947b63a794ea1"
+  },
+  {
+    "text": "Докладная записка",
+    "weight": 4,
+    "url": "https://journal.sovcombank.ru/rabota/kak-napisat-dokladnuiu"
+  },
+  {
+    "text": "Постановление",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/Постановление"
+  },
+  {
+    "text": "Справка",
+    "weight": 4,
+    "url": "https://delo-press.ru/journals/documents/oformlenie-dokumentov/34528-spravki-kopii-i-vypiski-iz-dokumentov/"
+  },
+  {
+    "text": "Перечень документов",
+    "weight": 4,
+    "url": "https://archives.gov.ru/printpdf/perechni-dokumentov.shtml"
+  },
+  {
+    "text": "Электронная труд. книжка",
+    "weight": 4,
+    "url": "https://sfr.gov.ru/grazhdanam/etk/"
+  },
+  {
+    "text": "Цифровая трансформация",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/Цифровая_трансформация"
+  },
+  {
+    "text": "ПВТР",
+    "weight": 4,
+    "url": "https://kedo365.ru/baza-znaniy/pravila-vnutrennego-trudovogo-rasporyadka-pvtr/"
+  },
+  {
+    "text": "OCR",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/Оптическое_распознавание_символов"
+  },
+  {
+    "text": "PDF/A",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/PDF/A"
+  },
+  {
+    "text": "Удостоверяющий центр",
+    "weight": 4,
+    "url": "https://e-trust.gosuslugi.ru/"
+  },
+  {
+    "text": "СМЭВ",
+    "weight": 4,
+    "url": "https://smev.gosuslugi.ru/"
+  },
+  {
+    "text": "Госуслуги",
+    "weight": 4,
+    "url": "https://www.gosuslugi.ru/"
+  },
+  {
+    "text": "ЭДО",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/Электронный_документооборот"
+  },
+  {
+    "text": "Штрихкод",
+    "weight": 4,
+    "url": "https://ru.wikipedia.org/wiki/Штрихкод"
+  }
+]
